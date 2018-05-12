@@ -1,0 +1,31 @@
+_repo: The-Justice-and-Necessity-of-Taxing-the-American-Colonies-DemonstratedTogether-with-a-Vindica__32463
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_issued: '2010-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32463'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Colonies -- America -- Administration'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Causes'
+- !lcsh 'Stamp duties -- Law and legislation -- Great Britain'
+- !lcsh 'Taxation -- Great Britain -- Colonies'
+- !lcc 'E201'
+- !lcsh 'Great Britain. Stamp Act (1765)'
+title: 'The Justice and Necessity of Taxing the American Colonies, Demonstrated
+
+  Together with a Vindication of the Authority of Parliament'
+url: http://www.gutenberg.org/ebooks/32463
